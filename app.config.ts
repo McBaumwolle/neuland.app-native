@@ -38,7 +38,7 @@ module.exports = {
             },
         },
         android: {
-            package: 'app.neuland',
+            package: 'plg.app.neuland',
             userInterfaceStyle: 'automatic',
             versionCode: 76,
             splash: {
